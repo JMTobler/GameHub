@@ -1,4 +1,4 @@
-GameHub - Página da Lan House
+###GameHub - Página da Lan House
 Este projeto é uma página de apresentação para uma lan house chamada "GameHub". Utiliza HTML e CSS com Bootstrap para criar uma interface responsiva e estilizada.
 
 Estrutura do Projeto
